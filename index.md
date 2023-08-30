@@ -2,9 +2,12 @@
 
 # shahaaryan24's First CS193 Homework
 
+
 - The lecturers are really great
-- Really excited to do CS 193
+- I am really excited to do CS 193
 - I want to learn the programming tools required for the CS classes
+- CS 193 🥳🥳🥳🥳
+
 
   
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
